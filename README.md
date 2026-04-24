@@ -47,12 +47,3 @@ Some files are lab simulations and may be large in size. They are intended for e
 
 **Ehsanul Imon**  
 Networking Enthusiast | CCNA Learner  
-
----
-
-## 🚀 Future Improvements
-
-- More advanced routing & switching labs  
-- Security (Firewall / ACL advanced scenarios)  
-- Better structured folder organization  
-- Automation & scripting basics  
