@@ -1,0 +1,93 @@
+
+https://blog.ahmizanpro.com/2024/11/orientation-class-introduction-of-ccna.html
+*Orientation Class: Introduction of CCNA*
+
+https://blog.ahmizanpro.com/2024/11/class-02-basic-networking-network.html
+*CCNA Class 01: Basic Networking & Network Architecture*
+
+https://blog.ahmizanpro.com/2024/11/class-02-osi-reference-model.html
+*Class-02:OSI Reference Model*
+
+https://blog.ahmizanpro.com/2024/11/physical-media-in-computer-networking.html
+*Class 3: Devices and Media*
+
+https://blog.ahmizanpro.com/2024/11/class-04-work-functionality-of-required.html
+*Class-04: Broadcast & Collision Domain with Digital Number system*
+
+https://blog.ahmizanpro.com/2024/11/class-05-ipv4-and-ipv6-addresses.html
+*CCNA Class 05: IPv4 and IPv6 Addresses Introduction*
+
+https://blog.ahmizanpro.com/2024/11/class-06-ipv4-address-subnetting.html
+Part-01: *CCNA Class 06: Concept of the IPv4 Address Subnetting*
+
+https://blog.ahmizanpro.com/2024/11/class-07-ipv4-address-classes-subnetting.html
+Part-Two: *CCNA Class 07: IPv4 Address Classes Subnetting*
+
+https://blog.ahmizanpro.com/2024/12/ccna-class-08-introduction-to-vlsm-and.html
+*CCNA Class 08: Introduction to VLSM and IP Subnetting*
+
+https://blog.ahmizanpro.com/2024/12/ccna-class-09-introduction-of-cisco.html
+*CCNA Class 09: Introduction of Cisco Packet Tracer & Basic Switch/Router Configuration*
+
+https://blog.ahmizanpro.com/2024/12/what-is-vlan-and-its-configuration-vlan.html
+*Class-09: VLAN + INTRR-VLAN configuration*
+
+https://blog.ahmizanpro.com/2024/12/ccna-class-13-ssh-concepts-and-its.html
+*Class 10: Remote Access & Security* Upcoming Lecture. Pls practice in yourself first. Thank you.
+
+https://blog.ahmizanpro.com/2024/12/ccna-class-10-introduction-of-routing.html
+*EXTRA CCNA Class: Routing Protocols and Static Routing Configuration*
+
+https://blog.ahmizanpro.com/2024/12/ccna-class-11-distance-vector-routing.html
+*CCNA Class 12: Distance vector Routing Protocol (RIPv1 & RIPv2) Configuration*
+
+https://blog.ahmizanpro.com/2025/01/class-15-ospf-concept-and-configuration.html
+*CCNA Class 13: OSPF Concept and Configuration with Details*
+
+https://blog.ahmizanpro.com/2025/01/ccna-class-16-eigrp-concept-and.html
+*CCNA Class 14: EIGRP Concept and Configurations*
+
+https://blog.ahmizanpro.com/2025/02/ccna-class-18-bgp-concept-and.html
+*CCNA Class 15: BGP Concept and Configurations*
+
+https://blog.ahmizanpro.com/2025/07/ccna-class-20-hybrid-network.html
+*Extra CCNA Class 20: Hybrid Network Configuration with Concept*
+
+https://blog.ahmizanpro.com/2025/01/ccna-class-16-eigrp-concept-and.html
+*CCNA Class 15: EIGRP Concept and Configurations*
+
+https://blog.ahmizanpro.com/2025/02/ccna-class-18-bgp-concept-and.html
+*CCNA Class 16: BGP Concept and Configurations*
+
+https://blog.ahmizanpro.com/2024/11/special-class-nat-pat.html
+*CCNA Class 17 : About NAT & PAT*
+
+https://blog.ahmizanpro.com/2024/12/ccna-class-13-acl-concept-and.html
+*CCNA Class 18: ACL Concept and Configuration*
+
+
+https://computernetworking747640215.wordpress.com/2018/06/22/wireless-router-configuration-in-cisco-packet-tracer/
+https://www.cisco.com/en/US/docs/routers/access/800/850/software/configuration/guide/wireless.html#:~:text=Table%20Of%20Contents,2
+*Wireless_Configuration*
+---------------------------------------------------------------
+https://blog.ahmizanpro.com/2025/08/ccna-extra-lesson-01-vtp-vlan-trunking.html
+*CCNA Extra Lesson 01: VTP (VLAN Trunking Protocol) Concept and Configuration*
+
+https://blog.ahmizanpro.com/2025/08/ccna-extra-lesson-02-switch-port.html
+*CCNA Extra Lesson 02: Concept of Switch Port Security in Cisco*
+
+https://blog.ahmizanpro.com/2025/08/ccna-extra-class-03-basic-vpn-tunneling.html
+*CCNA Extra Class 03: Basic VPN Tunneling Configuration in Cisco*
+
+https://blog.ahmizanpro.com/2025/08/ccna-extra-class-configure-ipsec-vpn.html
+*CCNA Extra Class 04: Configure the IPSec VPN Site to Site Tunnel in Cisco*
+
+https://blog.ahmizanpro.com/2025/08/ccna-extra-class-05-dhcp-and-cdp.html
+*CCNA Extra Class 05: DHCP and CDP Configuration in Cisco*
+
+https://blog.ahmizanpro.com/2025/08/ccna-extra-class-06-how-to-configure.html
+*CCNA Extra Class-06: Concept of STP in Cisco*
+
+
+
+
